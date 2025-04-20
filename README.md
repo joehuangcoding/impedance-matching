@@ -2,6 +2,10 @@
 
 The impedance of output should match the impedance of the load to maximise the energy transfer.
 
+When it doesn't match, it causes energy waste. More heat~
+https://youtu.be/bsidhFq_p3A?feature=shared
+
+
 ## Amplifier example 
 
 If the amplifier is rated for 8 ohms, then you should choose an 8-ohm speaker. However, in general, it's also important to consider the damping factor for optimal performance.
