@@ -14,3 +14,4 @@ text{DF} = \frac{8}{0.08} = 100
 
 This is great. A DF of 50–100+ is considered excellent.
 
+## How to measure the impedance and damping factor of the amplifier?
