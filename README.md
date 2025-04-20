@@ -10,7 +10,7 @@ Damping factor means how fast the amplifier can control the cone of the speaak. 
 
 Damping factor = Speaker impedance / Amplifier output impedance
 
-text{DF} = \frac{8}{0.08} = 100
+DF = 8/0.08 = 100
 
 This is great. A DF of 50–100+ is considered excellent.
 
